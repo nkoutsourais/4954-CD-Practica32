@@ -10,7 +10,7 @@ metadata:
     nginx.org/websocket-services: serverapp
 spec:
   rules:
-  - host: mastercloudapps2.es
+  - host: mastercloudapps3.es
     http:
       paths:
       - path: /
